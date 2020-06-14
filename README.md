@@ -24,7 +24,7 @@ Esta página deve carregar a pilha criada pela Rota #1, usando o `deck_id` dado 
 
 Página: https://drive.google.com/file/d/1qo4Q3AiVXUZLueZgnHq0tcShrB2JlXIf/view?usp=sharing
 
-Tenha em mente que você deve consumir a API porquê espera-se que a Rota #2 funcione independentemente da Rota #1. Em outras palavras, uma vez criado um Deck usando a Rota #1, deve-se ser capaz de usar a Rota #2 para acessar o Deck criado usando o `deck_id`.
+Tenha em mente que você deve consumir a API porque espera-se que a Rota #2 funcione independentemente da Rota #1. Em outras palavras, uma vez criado um Deck usando a Rota #1, deve-se ser capaz de usar a Rota #2 para acessar o Deck criado usando o `deck_id`.
 
 ### Playbook
 
