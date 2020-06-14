@@ -1,4 +1,4 @@
-# Introduction
+# Introdução
 
 O objetivo desse projeto é avaliar o seu conhecimento de Javascript, Git, Design Patterns, Testing, HTML5, CSS3 e resolução de problemas.
 
