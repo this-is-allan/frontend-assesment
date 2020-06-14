@@ -57,7 +57,7 @@ Tenha em mente que você deve consumir a API porque espera-se que a Rota #2 func
     - Combinações Full House: None
 2. Input - Cartas: 7D, AS, QH, 9S, 6D e **Carta de Rotação**: 10C
     - Pilha ordenada: 9S, AS, QH, 7D, 6D
-    - Carta de Maior Valor: AS
+    - Carta de Maior Valor: 9S
     - Combinações Full House: None
 3. Input - Cartas: AS, AD, AC, KH, KS e **Carta de Rotação**: 2H
     - Pilha ordenada: KH, AD, AC, AS, KS
