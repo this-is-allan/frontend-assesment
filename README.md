@@ -15,8 +15,7 @@ Página: https://drive.google.com/file/d/1PX44fwupvAvTzLb99w6HoeniTWVV-dqL/view?
 Quando o usuário submeter o formulário, um novo deck deve ser criado [1], as cartas submetidas pelo usuário devem ser adicionadas para 1 ou mais pilhas [2] e o usuário deve ser redirecionado para a Rota #2.
 
 ### Rota #2 - /deck/<<deck_id>>
-
-Usando o `deck_id` dado pelo endpoint "A Brand New Deck" [1], essa página deve carregar a pilha criada pela Rota #1, mostrando:
+Esta página deve carregar a pilha criada pela Rota #1, usando o `deck_id` dado pelo endpoint "A Brand New Deck" [1], mostrando:
 
 1. A pilha de cartas em ordem
 2. A **Carta de Rotação**
