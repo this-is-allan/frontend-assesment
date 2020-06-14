@@ -10,7 +10,7 @@ Você deve criar uma aplicação para analizar um deck de cartas do usuário. A 
 
 Esta página mostra um formulário que aceita até 10 cartas válidas e uma **Carta de Rotação.**
 
-Página: https://drive.google.com/file/d/1PX44fwupvAvTzLb99w6HoeniTWVV-dqL/view?usp=sharing
+Página: https://drive.google.com/file/d/1qo4Q3AiVXUZLueZgnHq0tcShrB2JlXIf/view?usp=sharing
 
 Quando o usuário submeter o formulário, um novo deck deve ser criado [1], as cartas submetidas pelo usuário devem ser adicionadas para 1 ou mais pilhas [2] e o usuário deve ser redirecionado para a Rota #2.
 
@@ -22,7 +22,7 @@ Esta página deve carregar a pilha criada pela Rota #1, usando o `deck_id` dado 
 3. A **Carta de Maior Valor**
 4. Todas as combinações **Full House**
 
-Página: https://drive.google.com/file/d/1qo4Q3AiVXUZLueZgnHq0tcShrB2JlXIf/view?usp=sharing
+Página: https://drive.google.com/file/d/1PX44fwupvAvTzLb99w6HoeniTWVV-dqL/view?usp=sharing
 
 Tenha em mente que você deve consumir a API porque espera-se que a Rota #2 funcione independentemente da Rota #1. Em outras palavras, uma vez criado um Deck usando a Rota #1, deve-se ser capaz de usar a Rota #2 para acessar o Deck criado usando o `deck_id`.
 
