@@ -12,7 +12,7 @@ Esta página mostra um formulário que aceita até 10 cartas válidas e uma **Ca
 
 Página: https://drive.google.com/file/d/1PX44fwupvAvTzLb99w6HoeniTWVV-dqL/view?usp=sharing
 
-Quando o usuários submeter o formulário, um novo deck deve ser criado [1], as cartas submetidas pelo usuário devem ser adicionadads para 1 ou mais pilhas [2] e o usuário deve ser redirecionado para a Rota #2.
+Quando o usuário submeter o formulário, um novo deck deve ser criado [1], as cartas submetidas pelo usuário devem ser adicionadas para 1 ou mais pilhas [2] e o usuário deve ser redirecionado para a Rota #2.
 
 ### Rota #2 - /deck/<<deck_id>>
 
