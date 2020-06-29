@@ -103,4 +103,4 @@ Tenha em mente que você deve consumir a API porque espera-se que a Rota #2 func
 5. Use Redux/Mobx ou outra biblioteca de gestão de estados, para ajudar a gerir os estados de sua aplicação.
 6. TypeScript não é mandatório mas você receberá pontos de bônus por utilizar.
 7. Você deve incluir um Readme com instruções em como rodar o projeto, testar e usar a aplicação.
-8. Balanceie seu tempo com sabedoria entre diferentes áreas deste desafio. Estimamos que você deve gastar **no máximo 10 horas** para completar esse desafio.
+8. Balanceie seu tempo com sabedoria entre diferentes áreas deste desafio. Estimamos que você deve gastar **aproximadamente 12 horas** para completar esse desafio.
